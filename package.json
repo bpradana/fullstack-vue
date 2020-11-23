@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-vue",
+  "version": "1.0.0",
+  "description": "Learning fullstack Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpradana/fullstack-vue.git"
+  },
+  "author": "Bintang Pradana Erlangga Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpradana/fullstack-vue/issues"
+  },
+  "homepage": "https://github.com/bpradana/fullstack-vue#readme"
+}
